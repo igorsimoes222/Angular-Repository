@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+
+h2 {
+  font-size: 3em;
+  font-family: 'Dancing Script', cursiva;
+  display: flexbox;
+  background-color: #043d53c9;
+  color: white;
+  height: 15%;
+  text-align: center;
+}
+
+.example-card {
+  max-width: 100%;
+  max-height: 100%;
+  border: 2px solid black;
+  margin:10px;
+  margin-left: 2%;
+  border-radius: 20px;
+}
+button
+{
+background-color: #87CEEB;
+border-radius: 100px;
+width: 60%;
+height: 30px;
+font-size: 1.3em;
+border: transparent;
+margin-top: 5%;
+
+}
+button:hover{
+
+background-color: green;
+
+}
+
+.flex-spacer {
+margin-left: 2%;
+}
+.display1{
+  max-width: 100%;
+display: inline-flex;
+}
+img{
+width: 206px;
+height: 150px;
+background-color: #B0E0E6;
+border-radius: 30px;
+}
+
+
+  .carrinho {
+    margin-left: 1%;
+    border-radius: 40px;
+  }
+  .carrinho:hover {
+  background-color: rgb(185, 55, 55);
+  border:  2px solid black;
+  }
+ .letras{
+  font-size: 1.3em;
+  width: 160%;
+  text-align: center;
+  margin-left: -50%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}

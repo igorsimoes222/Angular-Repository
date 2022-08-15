@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2? family= Dancing+Script & display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@700&family=Dancing+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;700&family=Dancing+Script&display=swap");
+
+.navbar-light .navbar-nav .nav-link .active {
+  color: red;
+  font-weight: bold;
+
+}
+
+.navbar-brand {
+  height: 55%;
+  font-size: 2em;
+  color: red;
+  margin-left: 2%;
+}
+a {
+  font-size: 1.5em;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Dancing Script", cursiva;
+
+}
+.navbarNav {
+  font-size: 1.5em;
+  text-align: left;
+  margin-left: 1%;
+
+}
+.nav-link {
+  color: #043d53c9;
+  font-size: 1.6em;
+  font-family: "Cormorant SC", serif;
+  border-radius: 30px;
+
+}
+.nav-link:hover {
+  background-color: #043d53c9;
+  color: white;
+}
+
+.navbar-nav {
+  text-align: center;
+  margin-left: -180%;
+}
+
+.carrinho {
+  border: 1px solid transparent;
+  margin-left: 1%;
+  border-radius: 30px;
+  background-color: whitesmoke;
+}
+.carrinho:hover {
+  color: white;
+}
+.bi-cart-plus {
+  font-size: 1em;
+  color: #043d53c9;
+}
+.bi-cart-plus:hover {
+  color: white;
+}
